@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/what-not-to-do-email.jpg
-youtube_code: K_viNdUZl6U
+youtube_code: HlHj2u-q6nk
 ---
 
 {% include youtube.html %}
