@@ -21,7 +21,7 @@ youtube_code: HlHj2u-q6nk
 
 Here’s a quick rundown of the top 12 things you should not do during the loan process:
 
-**1. Quit your job (or change jobs).** Why is this important? The day before closing, we still have to call your employer to make sure you’re still there. If you quit, retire, or change jobs, that will be known the day before closing.
+**1. Quit your job (or change jobs).** Why is this important? The day before closing, we have to call your employer to make sure you’re still there. If you quit, retire, or change jobs, that will be known the day before closing.
 
 **2. Buy a new car.** All mortgage companies have to do a soft credit pull the day of or the day before closing to make sure you haven’t taken on any new debt. If you purchase a new car, that will be revealed during a soft credit pull.
 
@@ -33,11 +33,11 @@ Here’s a quick rundown of the top 12 things you should not do during the loan 
 
 {% include pullquote.html %}
 
-**6. Omit any liabilities (childcare costs, private land payments, etc.).** Eventually these will come out, and it’s much better if we know about them up front.
+**6. Omit any liabilities (childcare costs, private land payments, etc.).** Eventually, these will come out, and it’s much better if we know about them up front.
 
 **7. Buy any major appliances or furniture a day or two before closing.** I know it’s tempting to do so, but if you take on any debt during the loan process, we’ll have to count that payment. Even if the payment is interest-only, we still have to count it on the credit report.
 
-**8. Apply for more credit.** Every new credit pull on your credit will cost you a few points.
+**8. Apply for more credit.** Every new credit pull will cost you a few points.
 
 **9. Make any large cash deposits (unless you have a bill of sale or absolute proof where it came from).** Cash is a bit of a no-no in the mortgage business.
 
