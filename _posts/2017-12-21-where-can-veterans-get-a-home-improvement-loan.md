@@ -13,7 +13,7 @@ pullquote: You don’t even need a down payment with this loan.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/maxresdefault.jpg
+youtube_alternate_image: /uploads/home-improvements-email.jpg
 youtube_code: mwWt0NNZn-4
 ---
 
