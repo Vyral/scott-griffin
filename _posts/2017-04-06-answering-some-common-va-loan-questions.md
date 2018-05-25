@@ -6,8 +6,8 @@ enclosure: >-
 pullquote: THE SIMPLE ANSWER IS ABSOLUTELY YES.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/patrick-fitzgerald-screenshot-template-1.jpg
 layout: post
 title: Answering Some Common VA Loan Questions
 date: 2017-04-06 19:49:00
