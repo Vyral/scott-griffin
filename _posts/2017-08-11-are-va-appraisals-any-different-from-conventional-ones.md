@@ -1,5 +1,5 @@
 ---
-youtube_code: Qa-UGSq7lx4
+youtube_code: pf4WvUqBePM
 excerpt:
 enclosure:
 pullquote: >-
@@ -7,8 +7,8 @@ pullquote: >-
   THAT THE HOME IS IN SOUND CONDITION FOR THE VETERAN.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/va-appraisals-email.jpg
+use_youtube_image: true
+youtube_alternate_image:
 layout: post
 title: Are VA Appraisals Any Different from Conventional Ones?
 date: 2017-08-11 20:45:00
@@ -19,7 +19,6 @@ thumbnail: /uploads/va-appraisals-email-1.jpg
 blogger_id: 'tag:blogger.com,1999:blog-4130350860975241153.post-2472622385336044348'
 blogger_orig_url: 'http://www.thevaloanguy.com/2017/08/are-va-appraisals-any-different-from.html'
 ---
-
 
 {% include youtube.html %}Today I wanted to talk about VA appraisals and how they differ from conventional appraisals.
 
