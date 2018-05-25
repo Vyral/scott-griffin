@@ -1,13 +1,13 @@
 ---
-youtube_code: hxxi-s3mYlw
+youtube_code: RSVzLSdrM4w
 excerpt:
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2017/July/The+VA+Loan+Guy-+Taxes%252C+VA+loans%252C+Insurance+July+1.mp4
 pullquote: RISING WATER IS NOT COVERED BY REGULAR HOMEOWNERS INSURANCE.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/taxes-and-insurance-email-1.jpg
+use_youtube_image: true
+youtube_alternate_image:
 layout: post
 title: How Taxes and Insurance Figure into VA Loans
 date: 2017-07-28 15:37:00
@@ -19,7 +19,6 @@ blogger_id: 'tag:blogger.com,1999:blog-4130350860975241153.post-7233779541871020
 blogger_orig_url: >-
   http://www.thevaloanguy.com/2017/07/how-taxes-and-insurance-figure-into-va.html
 ---
-
 
 {% include youtube.html %}Today I wanted to talk a bit more in-depth about how property taxes and homeowners insurance figure into the VA loan process.
 
