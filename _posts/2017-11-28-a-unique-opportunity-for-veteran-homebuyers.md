@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Unique Opportunity for Veteran Homebuyers
-date: 2017-11-28 13:04:36
+date: 2017-11-28 13:04:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -12,11 +12,10 @@ enclosure: >-
 pullquote: This is a smart investment strategy.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/vets-multi-fam-property-email-1.jpg
-youtube_code: VPX_b-Kyumg
+use_youtube_image: true
+youtube_alternate_image:
+youtube_code: 7lioYYtkhK4
 ---
-
 
 {% include youtube.html %}
 
