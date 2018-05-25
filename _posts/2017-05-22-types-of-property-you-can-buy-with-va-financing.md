@@ -6,8 +6,9 @@ enclosure: >-
 pullquote: YOU CAN BUY MULTI-FAMILY PROPERTIES UP TO FOUR UNITS WITH A VA LOAN.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: >-
+  /uploads/patrick-fitzgerald---may-2017---1---property-types-for-a-va-loan-email-1.jpg
 layout: post
 title: Types of Property You Can Buy With VA Financing
 date: 2017-05-22 16:20:00
