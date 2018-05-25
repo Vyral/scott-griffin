@@ -1,13 +1,13 @@
 ---
-youtube_code: vYMmyh_nRdI
+youtube_code: P6K15Amm1Zo
 excerpt:
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/Videos/2017/July/The+VA+Loan+Guy-+Manufactured+Homes+Made+Simple.mp4
 pullquote: THE VA WANTS BUYERS TO BE SAFE AND HEALTHY WITHIN THEIR HOMES.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/manufactured-homes-email.jpg
+use_youtube_image: true
+youtube_alternate_image:
 layout: post
 title: Manufactured Homes Made Simple
 date: 2017-07-03 18:49:00
@@ -18,7 +18,6 @@ thumbnail: /uploads/manufactured-homes-email-1.jpg
 blogger_id: 'tag:blogger.com,1999:blog-4130350860975241153.post-3054266218966199424'
 blogger_orig_url: 'http://www.thevaloanguy.com/2017/07/manufactured-homes-made-simple.html'
 ---
-
 
 {% include youtube.html %}There are a few key rules you should know about in order to get a VA loan under a manufactured home.
 
