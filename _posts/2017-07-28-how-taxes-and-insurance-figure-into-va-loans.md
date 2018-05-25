@@ -6,8 +6,8 @@ enclosure: >-
 pullquote: RISING WATER IS NOT COVERED BY REGULAR HOMEOWNERS INSURANCE.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/taxes-and-insurance-email-3.jpg
 layout: post
 title: How Taxes and Insurance Figure into VA Loans
 date: 2017-07-28 15:37:00
