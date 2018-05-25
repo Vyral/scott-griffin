@@ -1,5 +1,5 @@
 ---
-youtube_code: FocUpIVAilk
+youtube_code: 3m52zVgTT2g
 excerpt:
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+How+veterans+financing+works.mp4
