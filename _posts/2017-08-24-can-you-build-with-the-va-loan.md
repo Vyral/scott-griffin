@@ -6,8 +6,8 @@ enclosure: >-
 pullquote: THE FUNDS FROM THIS 30-YEAR VA LOAN WILL PAY OFF THE CONSTRUCTION LOAN.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/build-on-land-with-va-email-1.jpg
 layout: post
 title: Can You Build With the VA Loan?
 date: 2017-08-24 18:55:00
