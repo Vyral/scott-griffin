@@ -14,11 +14,10 @@ pullquote: >-
   pursue.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/irrl-email-2.jpg
-youtube_code: xm4bU0aRWD0
+use_youtube_image: true
+youtube_alternate_image:
+youtube_code: frniOTalob4
 ---
-
 
 {% include youtube.html %}
 
