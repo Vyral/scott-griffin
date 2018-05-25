@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Need to Know About Property Surveys
-date: 2017-11-08 12:50:42
+date: 2017-11-08 12:50:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -12,11 +12,10 @@ enclosure: >-
 pullquote: Property surveys show several important things.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/property-survey-email-1.jpg
-youtube_code: W5CGD7ddiEI
+use_youtube_image: true
+youtube_alternate_image:
+youtube_code: ijzDCr_8Dmo
 ---
-
 
 {% include youtube.html %}
 
