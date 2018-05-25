@@ -1,13 +1,13 @@
 ---
-youtube_code: XZd3JKwcGSc
+youtube_code: FocUpIVAilk
 excerpt:
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+The+kinds+of+properties+you+can+purchase.mp4
 pullquote: YOU CAN BUY MULTI-FAMILY PROPERTIES UP TO FOUR UNITS WITH A VA LOAN.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/kinds-of-properties-email.jpg
+use_youtube_image: true
+youtube_alternate_image:
 layout: post
 title: Types of Property You Can Buy With VA Financing
 date: 2017-05-22 16:20:00
@@ -18,7 +18,6 @@ thumbnail: /uploads/kinds-of-properties-email-1.jpg
 blogger_id: 'tag:blogger.com,1999:blog-4130350860975241153.post-4921151342902688082'
 blogger_orig_url: 'http://www.thevaloanguy.com/2017/05/types-of-property-you-can-buy-with-va.html'
 ---
-
 
 {% include youtube.html %}VA loans allow you to buy a wide variety of properties.
 
