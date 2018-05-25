@@ -1,5 +1,5 @@
 ---
-youtube_code: uBXaRtDvnSc
+youtube_code: vn9tLabktII
 excerpt:
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+Veterans+financing+post-bankruptcy.mp4
@@ -8,8 +8,8 @@ pullquote: >-
   HAS PASSED.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/05-post-bankruptcy-email.jpg
+use_youtube_image: true
+youtube_alternate_image:
 layout: post
 title: Can You Still Get a VA Loan Post-Bankruptcy?
 date: 2017-05-05 20:25:00
@@ -20,7 +20,6 @@ thumbnail: 'https://i.ytimg.com/vi/vn9tLabktII/default.jpg'
 blogger_id: 'tag:blogger.com,1999:blog-4130350860975241153.post-7303511831714311107'
 blogger_orig_url: 'http://www.thevaloanguy.com/2017/05/can-you-still-get-va-loan-post.html'
 ---
-
 
 {% include youtube.html %}If you had a bankruptcy in the past and it involved a home that you used a VA loan to purchase, you haven’t lost your eligibility. Here’s the situation you’ll face instead.
 
