@@ -6,8 +6,8 @@ enclosure: >-
 pullquote: IT DOESN’T COST A THING TO TALK TO ME ON THE PHONE.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/02-military-loans-email.jpg
+use_youtube_image: true
+youtube_alternate_image:
 layout: post
 title: I Specialize in Working with Military Clients
 date: 2017-03-16 18:31:00
