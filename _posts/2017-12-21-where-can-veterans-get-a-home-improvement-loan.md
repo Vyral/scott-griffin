@@ -12,11 +12,10 @@ enclosure: >-
 pullquote: You don’t even need a down payment with this loan.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/home-improvements-email-1-1.jpg
-youtube_code: QcJ98XHnu54
+use_youtube_image: true
+youtube_alternate_image:
+youtube_code: mwWt0NNZn-4
 ---
-
 
 {% include youtube.html %}
 
