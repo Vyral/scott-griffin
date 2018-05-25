@@ -6,8 +6,8 @@ enclosure: >-
 pullquote: THE VA WANTS BUYERS TO BE SAFE AND HEALTHY WITHIN THEIR HOMES.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/va-loans-and-manufactured-homes-email-1.jpg
 layout: post
 title: Manufactured Homes Made Simple
 date: 2017-07-03 18:49:00
