@@ -6,8 +6,8 @@ enclosure: >-
 pullquote: 'A VA LOAN ALLOWS YOU TO BORROW UP TO $424,000 WITH NO DOWN PAYMENT.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/anatomy-of-va-loan-email-1.jpg
 layout: post
 title: What Is the Anatomy of a VA Loan?
 date: 2017-06-12 16:30:00
