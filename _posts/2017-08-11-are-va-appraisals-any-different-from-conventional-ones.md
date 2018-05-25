@@ -7,8 +7,8 @@ pullquote: >-
   THAT THE HOME IS IN SOUND CONDITION FOR THE VETERAN.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/appraisals-email-1.jpg
 layout: post
 title: Are VA Appraisals Any Different from Conventional Ones?
 date: 2017-08-11 20:45:00
