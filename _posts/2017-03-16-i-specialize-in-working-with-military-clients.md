@@ -1,5 +1,5 @@
 ---
-youtube_code: psoAXxekbsg
+youtube_code: _58kszftDUo
 excerpt:
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+My+specialty+is+military+loans.mp4
@@ -18,7 +18,6 @@ thumbnail: 'https://i.ytimg.com/vi/_58kszftDUo/default.jpg'
 blogger_id: 'tag:blogger.com,1999:blog-4130350860975241153.post-3587739444376828876'
 blogger_orig_url: 'http://www.thevaloanguy.com/2017/03/i-specialize-in-working-with-military.html'
 ---
-
 
 {% include youtube.html %}I offer all types of mortgages, but my specialty is making sure military personnel can buy their dream homes.
 
