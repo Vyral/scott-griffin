@@ -1,13 +1,13 @@
 ---
-youtube_code: 6nW4QrqF3Nc
+youtube_code: TdL7Va_oLTg
 excerpt:
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Patrick+Fitzgerald/The+VA+Loan+Guy-+Who+Qualifies+for+a+VA+Loan%253F.mp4
 pullquote: THE SPOUSE OF A VETERAN CAN QUALIFY FOR A VA LOAN.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/04-who-qualifies-for-va-loan-email.jpg
+use_youtube_image: true
+youtube_alternate_image:
 layout: post
 title: Who Qualifies for VA Loans?
 date: 2017-04-24 19:54:00
@@ -18,7 +18,6 @@ thumbnail: 'https://i.ytimg.com/vi/TdL7Va_oLTg/default.jpg'
 blogger_id: 'tag:blogger.com,1999:blog-4130350860975241153.post-9087585875808383908'
 blogger_orig_url: 'http://www.thevaloanguy.com/2017/04/who-qualifies-for-va-loans.html'
 ---
-
 
 {% include youtube.html %}Who can qualify for a VA loan? Do you have to have military benefits? I’ll go over the answers to those questions today.
 
