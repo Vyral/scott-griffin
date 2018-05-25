@@ -8,8 +8,8 @@ pullquote: >-
   HAS PASSED.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/patrick-fitzgerald-8-3-2016-4-of-4-email-1.jpg
 layout: post
 title: Can You Still Get a VA Loan Post-Bankruptcy?
 date: 2017-05-05 20:25:00
