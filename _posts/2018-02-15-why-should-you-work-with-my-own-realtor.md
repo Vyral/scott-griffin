@@ -11,8 +11,8 @@ pullquote: A buyer’s agent will represent you and only you.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/work-with-an-agent-email-1.jpg
-youtube_code: UsF-etNFkTw
+youtube_alternate_image: /uploads/work-with-an-agent-email-guild.jpg
+youtube_code: qzofkoWL0hA
 ---
 
 {% include youtube.html %}
