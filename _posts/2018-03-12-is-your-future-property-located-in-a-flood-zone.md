@@ -15,8 +15,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/flood-insurance-email-2.jpg
-youtube_code: 62imiwsSbog
+youtube_alternate_image: /uploads/flood-insurance-email-guild.jpg
+youtube_code: SNVXC6dqCuQ
 ---
 
 {% include youtube.html %}
