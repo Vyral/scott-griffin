@@ -15,10 +15,9 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/moving-homes-email-1.jpg
-youtube_code: OdZutuonvBc
+youtube_alternate_image: /uploads/moving-manufactured-homes-email.jpg
+youtube_code: 1LBPTduFqd0
 ---
-
 
 {% include youtube.html %}
 
