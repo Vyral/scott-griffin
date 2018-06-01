@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Homeowner’s Insurance Policy Should You Choose?
-date: 2018-05-31 20:33:38
+date: 2018-05-31 20:33:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/insurance-email.jpg
-youtube_code: zoCF0TJU69I
+youtube_code: MFzjL8xCMoE
 ---
 
 {% include youtube.html %}
