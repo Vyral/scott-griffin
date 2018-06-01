@@ -30,7 +30,7 @@ Many times, insurance companies try to get your business by offering you a low r
 
 Let’s say that you have a $250,000 house with a total roof loss due to hail and a new roof costs $10,000. To reach your deductible you will have to pay $2,500, which means you will get a check for $7,500 to pay for your roof.
 
-If you elected to take a two percent or even a three percent, you are going to get next to nothing for that roof. Since the roof still needs to be repaired, this can take a major toll on your checkbook. For this reason, you should **be careful what deductible you select** when you choose coverage.
+If you elected to take a 2% or even a 3% deductible, you are going to get next to nothing for that roof. Since the roof still needs to be repaired, this can take a major toll on your checkbook. For this reason, you should **be careful what deductible you select** when you choose coverage.
 
 {% include pullquote.html %}
 
