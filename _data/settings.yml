@@ -21,8 +21,8 @@ client:
     people are misinformed about this program, and I am here to make sure that
     you are told the “straight facts”.
   market:
-  brand: The VA Loan Guy
-  brokerage: Guild Mortgage
+  brand: Guild Mortgage
+  brokerage: 
   address: '401 E. Sonterra Blvd, Ste 175<br>San Antonio, TX 78258'
   phone: 210-215-4400
   phone_type: Mobile
