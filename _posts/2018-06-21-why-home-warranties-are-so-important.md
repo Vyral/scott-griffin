@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Home Warranties Are so Important
-date: 2018-06-21 19:12:55
+date: 2018-06-21 19:12:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -16,7 +16,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/home-warranties-youtube.jpg
+youtube_alternate_image: /uploads/home-warranties-email.jpg
 youtube_code: _QKJ6tuUkhs
 ---
 
