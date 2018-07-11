@@ -23,7 +23,7 @@ youtube_code: WSaGXnZchZg
 
 Do you know what your insurance deductible is?
 
-In most cases, people tend to select a 1% rate in case of things like hail or fire damage. So if someone with a 1% annual rate has a $250,000 home, then their deductible would amount to $2,500.
+In most cases, people tend to select a 1% rate in case of things like hail or fire damage. This means that if someone with a 1% annual rate has a $250,000 home, then their deductible would amount to $2,500.
 
 But in some cases, **people may take shortcuts and attempt to get a lower annual rate on their insurance premium by selecting a rate of 2% or 3%.** This can land you in hot water, though. To explain why, I’d like to recount a scenario I encountered recently.
 
