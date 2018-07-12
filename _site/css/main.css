@@ -1941,7 +1941,7 @@ table tr, table td {
   margin-top: 10px;
   margin-bottom: 20px;
   border: 1px solid #c7c7c7;
-  width: 30%; }
+  width: 22%; }
 
 .post-block-container {
   display: -webkit-box;
@@ -2927,6 +2927,9 @@ form select {
 
 .equal-housing {
   width: 50px; }
+
+.whitespace {
+  margin-top: 3rem; }
 
 #side-logo {
   width: 90%;

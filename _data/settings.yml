@@ -7,6 +7,12 @@ description: >-
   Rate, and Investment products.
 show_custom_links: true
 custom_links:
+  - title: Free Newsletter
+    url: /sign-up/
+  - title: Video Library
+    url: /video-library/
+  - title: About Me
+    url: https://www.linkedin.com/in/pat-fitzgerald-75207524
   - title: TV Spots
     url: /tv-spots/
 client:
@@ -22,7 +28,7 @@ client:
     you are told the “straight facts”.
   market:
   brand: Guild Mortgage
-  brokerage: 
+  brokerage:
   address: '401 E. Sonterra Blvd, Ste 175<br>San Antonio, TX 78258'
   phone: 210-215-4400
   phone_type: Mobile
