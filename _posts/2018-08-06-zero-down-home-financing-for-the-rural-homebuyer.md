@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A Zero-Down Home Financing for the Rural Homebuyer
-date: 2018-08-06 15:50:18
+title: Zero-Down Home Financing for the Rural Homebuyer
+date: 2018-08-06 15:50:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -19,7 +19,7 @@ youtube_code: yyhUq-X7a9k
 
 {% include youtube.html %}
 
-Do you know what a USDA loan is? Today I am going to explain all about them to you.
+Today we're going to take a closer look at USDA home loans and the benefits they bring to homebuyers.
 
 **A USDA home loan is a loan guaranteed by the U.S. Department of Agriculture.** It doesn’t work everywhere, however—the purpose the of the program is to help with financing homes in rural areas. You will not get approved for this loan inside a city with a population of more than 25,000.
 
@@ -27,7 +27,7 @@ As a type of conventional loan, the USDA loan uses a conventional appraisal. Sim
 
 {% include pullquote.html %}
 
-For all USDA home loans, there is a maximum family income. This is varies based on the location of the home which is why you need to make sure to check with your loan officer. For example, **in the San Antonio area, the maximum income for a family of four cannot exceed $82,700 in order to be eligible for the USDA loan.** Of course, larger families have higher maximum incomes.
+For all USDA home loans, there is a maximum family income. This varies based on the location of the home, which is why you need to make sure to check with your loan officer. For example, **in the San Antonio area, the maximum income for a family of four cannot exceed $82,700 in order to be eligible for the USDA loan.** Of course, larger families have higher maximum incomes.
 
 The USDA home loan program is a great product if used properly, and it has helped many families in less populous areas in the nation. To find out if a home you are looking at qualifies for a USDA loan, you can go **[here](https://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do#){: target="_blank"}.**
 
