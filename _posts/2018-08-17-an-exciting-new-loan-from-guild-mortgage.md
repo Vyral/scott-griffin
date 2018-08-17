@@ -21,15 +21,13 @@ youtube_code: 3ezuEb5nIAc
 
 {% include youtube.html %}
 
-Today we’re going to talk about Guild Mortgage’s new “3, 2, 1” mortgage program. We just rolled out this brand new, exciting loan program that could be just what you’re looking for as a homebuyer.
+Today we’re going to talk about Guild Mortgage’s new “3, 2, 1” mortgage program. This exciting new loan program could be just what you're looking for as a homebuyer.
 
-Here are the basics. **It’s a 30-year, fixed conventional home loan that only requires a 3% down payment instead of the typical 5%.** But wait, there’s more. In addition to a lower down payment, Guild Mortgage will also give the buyer an additional $1,500 to use towards their down payment, closing costs, or whatever else.
+**Here are the basics: It's a 30-year fixed conventional loan that requires a 3% down payment and a credit score of at least 620.** Beyond that, the loan may also only be used to purchase a pre-owned property.&nbsp; But wait, there’s more. In addition to a lower down payment, Guild Mortgage will also give the buyer an additional $1,500 to use towards their down payment, closing costs, or whatever else.
 
 {% include pullquote.html %}
 
-Finally, when the loan closes, **this program also gives you a $2,000 Home Depot gift** card that you can use to buy appliances, furniture, and more.
-
-There are a few rules. It’s a fixed, 30-year program and you have to have a 620 credit score to qualify. It also has to be used on a pre-owned property.
+Finally, when the loan closes, **this program also gives you a $2,000 Home Depot gift** **card** that you can use to buy appliances, furniture, and more.
 
 I just wanted everyone to know about this fantastic program that might be the perfect fit for you, a friend, a family member, or someone else you know.
 
