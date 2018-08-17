@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Exciting New Loan From Guild Mortgage
-date: 2018-08-17 18:10:14
+date: 2018-08-17 18:10:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/321-mortgage-youtube.jpg
+youtube_alternate_image: /uploads/321-mortgage-email.jpg
 youtube_code: 3ezuEb5nIAc
 ---
 
