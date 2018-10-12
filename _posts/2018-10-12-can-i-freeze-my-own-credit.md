@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How You Can Freeze Your Own Credit
-date: 2018-10-12 16:42:04
+title: Can I Freeze My Own Credit?
+date: 2018-10-12 16:42:00
 tags:
   - Real Estate
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: bKB5EQWW-YU
 
 {% include youtube.html %}
 
-If you’ve ever had your credit pulled without your permission or you’re worried about identity theft happening to you, a new federal law was recently passed that allows you to freeze your credit if you want to. &nbsp;
+If you’ve ever had your credit pulled without your permission or you’re worried about identity theft happening to you, a new federal law was recently passed that allows you to freeze your credit if you want to.  
 
 The best part? You can do it for free.
 
@@ -29,6 +29,6 @@ The best part? You can do it for free.
 
 **All you have to do is contact all three major credit bureaus—Transunion, Equifax, and Experian—by phone, written mail, or online, and ask them to lock down your credit.** If you make this request online or by phone, your credit will be frozen within one day. If you do it through written mail, your credit will be frozen within three days.
 
-Then, if you want to unfreeze your credit at anytime, all you have to do it contact them again and ask. &nbsp;
+Then, if you want to unfreeze your credit at anytime, all you have to do it contact them again and ask.  
 
 As always, if you have any questions about this topic or there’s anything else I can assist you with, don’t hesitate to reach out to me. It doesn’t cost a penny to talk, and I’d be happy to speak with you.
