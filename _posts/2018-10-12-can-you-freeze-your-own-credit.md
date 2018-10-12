@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Can I Freeze My Own Credit?
+title: Can You Freeze Your Own Credit?
 date: 2018-10-12 16:42:00
 tags:
   - Real Estate
@@ -14,7 +14,7 @@ pullquote: >-
   you want to.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image:
 youtube_code: bKB5EQWW-YU
 ---
