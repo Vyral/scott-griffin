@@ -35,7 +35,7 @@ Retirement accounts can also count toward this, but only 60% of the funds within
 
 And **if you have more than one investment property, you’ll need to multiply this reserve amount by however many properties you accrue.**
 
-Finally, don’t forget that you’ll need to budget for closing costs. That is, unless you can negotiate for the seller to pay them.
+Finally, don’t forget that you’ll need to budget for closing costs—that is, unless you can negotiate for the seller to pay them.
 
 The rental market is very strong right now, so I highly encourage anyone able to meet the stipulations we’ve discussed today to pursue building wealth through real estate.
 
