@@ -3006,6 +3006,9 @@ form select {
   width: 100%;
   height: 100%; }
 
+video {
+  max-width: 50% !important; }
+
 .e2ma_signup_form_label {
   color: #555 !important;
   Text-align: center; }
