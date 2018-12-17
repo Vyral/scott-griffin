@@ -1,45 +1,40 @@
 audit_header: false
-title: Guild Mortgage with Patrick Fitzgerald
-description: >-
-  Patrick Fitzgerald, the VA Loan Guy, is located in San Antonio, Texas and is a
-  true “One Stop Lender”. We originate, underwrite, and close all types of
-  loans. We offer Texas Vet, Veterans, FHA, Conventional, Jumbo, Adjustable
-  Rate, and Investment products.
+title:
+description:
+
 show_custom_links: true
 custom_links:
-  - title: Free Newsletter
-    url: /sign-up/
-  - title: Video Library
-    url: /video-library/
-  - title: About Me
-    url: https://www.linkedin.com/in/pat-fitzgerald-75207524
-  - title: TV Spots
-    url: /tv-spots/
+  - title: Home Purchase Qualifier
+    url: http://sgriffin-purchase-site.itclix.com/
+  - title: Refinance Rate Checker
+    url: http://sgriffin-refinance-site.itclix.com/
+  - title: Today's Mortgage Rates
+    url: http://sgriffin-rates-site.itclix.com/
+  - title: Search Homes
+    url: http://sgriffin-find-a-home-site.itclix.com/?xrefresh=1
+  - title: Home Valuation
+    url: http://sgriffin-home-valuation-address-site.itclix.com/?xrefresh=1
+  - title: Apply
+    url: http://scottgriffin.com/apply-online/
+
 client:
-  name: Patrick Fitzgerald
-  license_number: NMLS 218508
-  about_markdown: >-
-    #### Number 1 Texas Home Loan Originator 7 Years in a Row
+  name: Scott Griffin
+  license_number:
+  about_markdown:
 
-
-    I make my living helping Active Military people as well as Veterans. There
-    are many ways in which to qualify to use this wonderful program. Too many
-    people are misinformed about this program, and I am here to make sure that
-    you are told the “straight facts”.
-  market:
-  brand: Guild Mortgage
+  market: Los Angeles
+  brand: Scott Griffin Financial
   brokerage:
-  address: '401 E. Sonterra Blvd, Ste 175<br>San Antonio, TX 78258'
-  phone: 210-215-4400
-  phone_type: Mobile
-  phone2: 210-625-3478
-  phone2_type: Fax
-  email: pfitzgerald@guildmortgage.net
-  url: 'http://Texas-Vet-Loans.com'
-CTAs:
-  first_CTA_text: Apply Now
-  first_CTA_URL: 'https://preapp1003.com/id/Patrick-Fitzgerald/'
-emma_form:
+  address: 11950 Ventura Blvd. Suite 1<br>Studio City, California 91604
+  phone: 310-456-4494
+  phone_type:
+  phone2:
+  phone2_type:
+  email: scott@scottgriffin.com
+  url: http://www.scottgriffin.com
+# CTAs:
+#   first_CTA_text:
+#   first_CTA_URL:
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: Online Loan Application
@@ -48,7 +43,7 @@ sidebar_CTA:
       your application whenever it is convenient for you. And, you can always
       save your work and come back and complete it later if you need to.
     CTA_link_text: Apply Now
-    CTA_url: 'https://preapp1003.com/id/Patrick-Fitzgerald/'
+    CTA_url:
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -60,51 +55,31 @@ lender:
   phone: 555-555-5555
   email: bill@murray.com
   url: 'http://eyegoop.com'
-welcome_box:
-  welcome_headline: Join Our -- MARKET -- VIP List
-  welcome_text_markdown: >-
-    Our mission at – CLIENT BRAND – is to be your best resource for Home
-    Mortgages. I make my living helping Active Military people as well as
-    Veterans. Whether you are a Prospective Client or a Realtor, our team of
-    professionals can answer any questions you might have about Texas Vet & VA
-    Loans. Subscribe to this blog to get the answers to the most popular
-    questions for you and to get the necessary tools to make a proper decision
-    on a Home Loan using the Texas Veterans Land Board Program.
+
 socials:
   review_sm_icons: true
-  facebook_url: >-
-    https://www.facebook.com/Free-help-for-TX-Real-Estate-Agents-119248468091989/
-  linkedin_url: 'https://www.linkedin.com/in/pat-fitzgerald-75207524?trk=hp-identity-photo'
-  gplus_url: 'https://plus.google.com/u/0/b/111020914519161365428'
-  youtube_url: 'https://www.youtube.com/channel/UCeMtPq_pkOYzq_twNGaQz8g'
-  twitter_url: 'https://twitter.com/VALoanExpert'
+  facebook_url:
+  linkedin_url:
+  gplus_url:
+  youtube_url:
+  twitter_url:
   instagram_url:
   pinterest_url:
   zillow_url:
   trulia_url:
-  yelp_url: 'https://www.yelp.com/user_details?userid=TKd6cBb_EnVAS5eooUUMGg'
-  podcast_url: >-
-    https://itunes.apple.com/us/podcast/real-estate-podcast-with-patrick-fitzgerald/id1216865123?mt=2
+  yelp_url:
+  podcast_url:
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'Los Angeles Mortgage Podcast with Scott Griffin'
   categories:
     - Education
   image: /img/podcast.png
-  subtitle: >-
-    Get the answers to the most popular questions for you and to get the
-    necessary tools to make a proper decision on a Home Loan using the Texas
-    Veterans Land Board Program.
-  description: >-
-    Patrick Fitzgerald, the VA Loan Guy, is located in San Antonio, Texas and is
-    a true “One Stop Lender”. We originate, underwrite, and close all types of
-    loans. We offer Texas Vet, Veterans, FHA, Conventional, Jumbo, Adjustable
-    Rate, and Investment products.
-  keywords: >-
-    Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military,
-    Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages
-  author: '-- CLIENT NAME --'
+  subtitle:
+  description:
+  keywords:
+  author: 'Scott Griffin'
 images:
-  client_headshot_path: /img/headshot.png
+  client_headshot_path: /img/headshot.jpg
   hero_text: The VA Loan Guy Video Blog
   hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
