@@ -1,5 +1,5 @@
 audit_header: false
-title:
+title: Los Angeles Mortgage Lender | Scott Griffin Financial
 description:
 
 show_custom_links: true
@@ -21,7 +21,9 @@ client:
   name: Scott Griffin
   license_number:
   about_markdown:
+    Scott is one of a few selected lenders who are licensed to represent the All-in-One loan after having undergone a rigorous approval process with CMG Mortgage. He is a licensed Real Estate Broker in California and holds Nationwide Mortgage Licensing System and Registry (NMLS), Federal Housing Administration (FHA) and Certified Mortgage Planning Specialist (CMPS) certifications.
 
+    Scott Griffin has a passion and talent for helping individuals truly understand and enjoy the mortgage process.
   market: Los Angeles
   brand: Scott Griffin Financial
   brokerage:
@@ -58,8 +60,8 @@ lender:
 
 socials:
   review_sm_icons: true
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/scottgriffinfinancial/
+  linkedin_url: https://www.linkedin.com/in/scottgriffinfinancial/
   gplus_url:
   youtube_url:
   twitter_url:
@@ -87,8 +89,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#262a82'
-  theme_color: '#999999'
+  brand_color: '#2b3976'
+  theme_color: '#717075'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
