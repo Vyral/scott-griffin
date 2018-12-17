@@ -1589,18 +1589,20 @@ label.tree-toggle {
   margin-top: 5rem; }
 
 .site-logo {
-  width: 50%;
-  margin-left: 25%;
-  max-width: rem; }
+  width: 90%;
+  max-width: 40rem;
+  -webkit-filter: drop-shadow(0px 2px 14px black);
+  filter: drop-shadow(0px 2px 14px black); }
 
 .site-title {
-  color: #262a82;
-  text-shadow: 0px 2px 14px rgba(234, 234, 234, 0.5);
+  color: white;
+  text-shadow: 0px 2px 14px black;
   text-transform: uppercase;
   font-size: 5rem;
-  padding-bottom: 3rem;
-  margin-top: -25px;
-  font-weight: 300; }
+  font-weight: bold;
+  padding-bottom: 4rem;
+  padding-top: 1rem;
+  margin-bottom: 0; }
 
 .slogan {
   font-size: 3rem;
@@ -2073,7 +2075,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 14px rgba(234, 234, 234, 0.5); }
+  text-shadow: 0px 2px 14px black; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -2088,7 +2090,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 14px rgba(234, 234, 234, 0.5);
+  text-shadow: 0px 2px 14px black;
   margin-bottom: 1rem; }
 
 .tag {
@@ -2099,7 +2101,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 14px rgba(234, 234, 234, 0.5);
+  text-shadow: 0px 2px 14px black;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
