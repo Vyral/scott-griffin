@@ -2927,6 +2927,12 @@ form select {
 .newsletter {
   background: #69696d; }
 
+.award {
+  display: inline-block;
+  max-width: 200px;
+  padding-bottom: 2rem;
+  padding-top: -2rem; }
+
 .equal-housing {
   width: 50px; }
 
